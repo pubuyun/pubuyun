@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [paperless-app](https://github.com/pubuyun/paperless-app)
 
-- 🌱 I’m currently learning **React, Rust**
-
-- 💬 Ask me about **python**
+- 🌱 I’m currently learning **React, Rust, Python**
 
 <h3 align="left">Connect with me: wzh.zhang@qq.com</h3>
 <p align="left">
